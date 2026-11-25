@@ -1,4 +1,4 @@
-# DineCloud – Cloud-Based Restaurant Management System
+# Savor – Cloud-Based Restaurant Management System
 
 DineCloud is a web-based restaurant management and online food ordering platform that simplifies restaurant operations through a unified system.
 
